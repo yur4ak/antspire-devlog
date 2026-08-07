@@ -29,6 +29,7 @@ TypeScript · Vite · Vitest · WebGL2 · no engine
 
 
 # 6 Aug 2026
+<img width="640" height="360" alt="demo_map" src="https://github.com/user-attachments/assets/6882bff8-c03e-4e6b-a6bf-fe77d329a406" />
 <img width="916" height="530" alt="image" src="https://github.com/user-attachments/assets/7b2b7eea-0915-4994-978a-0e46185eadb4" />
 
 ### Phase 0 — Scope lock ✅ *(complete)*
